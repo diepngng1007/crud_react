@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 3333",
+      "price": 1000,
+      "image": "https://img.freepik.com/premium-photo/hamburger-with-lettuce-tomato-cheese-it_667286-3180.jpg",
+      "desc": "Mô tả sản phẩmmmm"
+    },
+    {
+      "id": 2,
+      "name": "Product 233333",
+      "price": "3232",
+      "image": "https://img.freepik.com/premium-photo/hamburger-with-lettuce-tomato-cheese-it_667286-3180.jpg",
+      "desc": "Mô tả sản phẩm"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 3000,
+      "image": "https://img.freepik.com/premium-photo/hamburger-with-lettuce-tomato-cheese-it_667286-3180.jpg",
+      "desc": "Mô tả sản phẩm"
+    },
+    {
+      "name": "bánh dâu tây",
+      "image": "https://picsum.photos/150/200",
+      "price": "2300",
+      "desc": "sljfdsdlg",
+      "id": 4
+    },
+    {
+      "name": "sjfslf",
+      "image": "https://halotravel.vn/wp-content/uploads/2021/07/1-Nokkaew.jpg",
+      "price": "2000",
+      "desc": "jwlfsdlv",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.product-image {
+    overflow: hidden;
+  }
+  
+  .product-image img {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .product-image:hover img {
+    transform: scale(1.1); /* Zoom in slightly */
+  }
+  

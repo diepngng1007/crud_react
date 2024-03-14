@@ -24,7 +24,7 @@ function ProductDetail() {
     <div>
       {product && (
         <div>
-          <img src={`${product.image}`} alt={`${product.name}`} />
+          <img src={`${product.image}`} alt={`${product.name}`} width={300} />
           <h3>{product.name}</h3>
           <strong className="text-warning">{product.price}</strong>
           <p>{product.desc}</p>

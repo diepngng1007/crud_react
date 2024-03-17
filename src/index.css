@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  /* responsive màn mobile */
+  .banner-img img{
+    margin-top: 54px;
+    width: 100%;
+  }
+  .title{
+    margin: 20px 15px;
+  }
+  .title-title{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+  }
+  .paragraph{
+    margin: 20px 15px;
+  }
+  strong {
+    line-height: 50px;
+  }
+  h2{
+    line-height: 100px;
+  }
+  span{
+    color: #718096
+  }
+  

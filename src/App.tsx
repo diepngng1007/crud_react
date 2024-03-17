@@ -7,6 +7,7 @@ import ProductAdd from './pages/ProductAdd'
 import ProductUpdate from './pages/ProductUpdate'
 import ProductDetail from './pages/ProductDetail'
 import HomePage from './pages/HomePage'
+// import AboutPage from './pages/AboutPage'
 
 function App() {
   return (
